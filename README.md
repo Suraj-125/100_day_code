@@ -8,6 +8,7 @@
 2. Tip Calculator
 3. Treasure Hunting Game
 4. Rock- Paper - Scissor
+5. Random Password Generator
 
 
 #### You can contact on me Linkedin
