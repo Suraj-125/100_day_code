@@ -1,3 +1,4 @@
+
 # 100 Days Projects on Python.
 
 *This repository contains projects from basic level to advance level. In this repository, i am gonna going to use almost module, which is present inside the python. I am going to upload projects from basic  to data science level.*
@@ -14,5 +15,3 @@
 **Linkedin Profile** - [Suraj Singh](https://www.linkedin.com/in/suraj-singh-b869a4246/)
 
 *Slowely i will cover all the projects in this repository*
-
-
