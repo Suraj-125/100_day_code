@@ -14,6 +14,7 @@
 7. Hangman Game
 8. Cryptograph Message (Encryption and Decryption.)
 9. Auction Bidder
+10. Calculator
 
 
 #### You can contact on me Linkedin
