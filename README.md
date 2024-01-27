@@ -1,5 +1,5 @@
 
-# 100 Days Projects on Python.
+# 100 Projects on Python.
 
 *This repository contains projects from basic level to advance level. In this repository, i am gonna going to use almost module, which is present inside the python. I am going to upload projects from basic  to data science level.*
 
@@ -16,6 +16,7 @@
 9. Auction Bidder
 10. Calculator
 11. Blackjack Game
+12. Guessing Number Game
 
 
 #### You can contact on me Linkedin
