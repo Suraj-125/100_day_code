@@ -17,6 +17,7 @@
 10. Calculator
 11. Blackjack Game
 12. Guessing Number Game
+13. Comparison Quiz Game
 
 
 #### You can contact on me Linkedin
