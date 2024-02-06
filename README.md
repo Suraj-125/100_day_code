@@ -22,6 +22,11 @@
 15. Coffee Machine with OOPs
 16. Quiz Game
 17. Project on Turtle (Spirogrpah, Angle and Hist color project)
+    - Histdot in horizontal
+    - Hist-dot in vertical
+    - Spirograph
+    - Creating angle (3 sides to 10 sides)
+18. Sketch Project
 
 
 #### You can contact on me Linkedin
