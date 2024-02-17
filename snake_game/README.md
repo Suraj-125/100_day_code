@@ -1,6 +1,6 @@
 # SNAKE GAME WITH PYTHON
 
-## *One of the simple snake game which triggers most of the feature of old snake game which we usually played in NOKIA mobiles phone*
+#### *One of the simple snake game which triggers most of the feature of old snake game which we usually played in NOKIA mobiles phone*
 
 ### Features of this Game :
 
